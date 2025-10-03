@@ -27,7 +27,7 @@ Soy profesor en la Escuela Politécnica Superior de la Universidad de Burgos (UB
 
 ---
 
-## 🎬 Celebración del aniversario
+## 🎬 Presentación:
 
 [![Celebración del aniversario](https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_square_%282017%29.svg)](https://youtu.be/q_O3ZL2Y5Zc?si=vTiamnv7xdKRS-6A)
 
