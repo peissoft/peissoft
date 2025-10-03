@@ -21,7 +21,7 @@ Soy profesor en la Escuela Politécnica Superior de la Universidad de Burgos (UB
 | Proyecto           | Descripción breve                                                   |
 |--------------------|---------------------------------------------------------------------|
 | [Realidad Virtual Inclusiva](#) | Herramientas de VR para la inclusión educativa.         |
-| [VRiRV](#)         | Realidad virtual interactiva para rehabilitación y vida virtual.    |
+| [VRiRV](https://vrirv.es/)         | Realidad virtual interactiva para rehabilitación y vida virtual.    |
 | [+VRiRV](#)        | Extensión de VRiRV con nuevas funcionalidades inclusivas.           |
 | [UBU-StudentProjects](https://github.com/UBU-StudentProjects) | Proyectos estudiantiles innovadores.      |
 
